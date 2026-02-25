@@ -16,7 +16,8 @@ A stylized low-poly girl character designed for real-time applications and game 
 - Basic material setup
 
 ### 🎬 Preview
-![Low Poly Girl Demo](./gifs/lowpoly-girl.gif)
+![Low Poly Girl Demo](https://github.com/user-attachments/assets/b5cc14b0-9679-4bca-8afd-98cee76fd7a7)
+
 
 ---
 
