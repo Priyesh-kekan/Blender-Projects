@@ -35,15 +35,14 @@ A stylized low-poly magician character focused on strong silhouette and performa
 
 ---
 
-## 🏔️ Project 3: Low-Poly Landscape (Upcoming)
+## 🏔️ Project 3: 3D Landscape (Upcoming)
 
-Currently working on a stylized low-poly 3D landscape environment.
+Currently working on a stylized 3D landscape environment.
 
 ### 🔹 Planned Focus
 - Terrain sculpting
 - Environment composition
 - Lighting and atmosphere
-- Performance optimization for Unity
 
 🚧 Work in progress — updates coming soon.
 
@@ -52,14 +51,6 @@ Currently working on a stylized low-poly 3D landscape environment.
 ## 🛠️ Tools Used
 - Blender (Modeling & Materials)
 - Unity (Testing & Integration)
-
----
-
-## 📌 Learning Goals
-- Character modeling fundamentals
-- Clean topology and optimization
-- Stylized environment design
-- Game-ready asset workflow
 
 ---
 
