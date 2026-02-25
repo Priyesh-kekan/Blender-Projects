@@ -24,6 +24,7 @@ A stylized low-poly girl character designed for real-time applications and game 
 
 A stylized low-poly magician character focused on strong silhouette and performance-friendly modeling.
 
+
 ### 🔹 Features
 - Clean edge flow
 - Simplified geometry
@@ -31,7 +32,7 @@ A stylized low-poly magician character focused on strong silhouette and performa
 - Unity integration workflow
 
 ### 🎬 Preview
-![Low Poly Magician Demo](./gifs/lowpoly-magician.gif)
+![Low Poly Magician Demo](https://github.com/user-attachments/assets/d7913c28-171d-4c6b-992d-ce6df3f84e1a)
 
 ---
 
